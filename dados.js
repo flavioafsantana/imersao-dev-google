@@ -18,6 +18,7 @@ let dados = [
         titulosConstrutores: "Títulos de Construtores: 16",
         resumo: "A Scuderia Ferrari é a equipe mais antiga e bem-sucedida da Fórmula 1. Fundada por Enzo Ferrari, a equipe participou de todas as temporadas desde 1950. Ao longo de sua história, a Ferrari tem sido sinônimo de tradição e sucesso, com 16 títulos de construtores e 15 títulos de pilotos.",
         pilotosAtuais: ["Charles Leclerc", "Carlos Sainz"]
+
     },
     {
         nomeEquipe: "Red Bull Racing",
@@ -27,7 +28,8 @@ let dados = [
         fundacao: "Fundação: 2005",
         titulosConstrutores: "Títulos de Construtores: 6",
         resumo: "A Red Bull Racing nasceu após a compra da Jaguar Racing em 2004, que por sua vez sucedeu a Stewart Grand Prix. A equipe começou a se destacar em 2010, quando conquistou seu primeiro título de construtores. Desde então, se tornou uma das forças dominantes, especialmente com a ascensão de Max Verstappen.",
-        pilotosAtuais: ["Max Verstappen", "Sergio Perez"]
+        pilotosAtuais: ["Max Verstappen", "Sergio Perez"],
+
     },
     {
         nomeEquipe: "McLaren",
